@@ -1,7 +1,5 @@
-import { Heading } from "@ign-ui/react";
+import { Heading } from '@ign-ui/react'
 
 export default function Home() {
-  return (
-    <Heading as="h1">Ignite Call</Heading>
-  )
+  return <Heading as="h1">Ignite Call</Heading>
 }
