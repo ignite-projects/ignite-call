@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ign-ui/react": "^2.0.1",
     "@ignite-ui/react": "^2.2.4",
     "@types/node": "18.11.14",
     "@types/react": "18.0.26",
