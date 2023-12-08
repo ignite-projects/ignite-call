@@ -5,6 +5,9 @@
 
 ```bash
 npm instal
+
+npx prisma migrate dev
+
 npm run dev
 ```
 
